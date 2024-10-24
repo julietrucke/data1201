@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lab Worksheet
 ## Objective:
 Get used to creating new scripts, using the /tmp directory,
@@ -188,3 +189,14 @@ Note: Functions behave similar to sub-file, but variables set inside of a local 
 
 This is a small function that makes a new directory and enters it in one go!
 Add a picture of the function at the end your bashrc, and save it as "environmentvar2.png" or "environmentvar2.jpg".
+=======
+# Data 1201 - Explorations in Data Science
+<h3 align="center">Author - Julie Truckenbrod</h3>
+
+| Week   | Lab Topic            | Project      |
+|--------|----------------------|--------------|
+| Week 1 | Starting Linux       | -            |
+| Week 2 | Command Line Basics  | -            |
+| Week 3 | Working With Files   | -            |
+| Week 4 | Markdown             | This Readme  |
+>>>>>>> d641e2214d718362a77a7fe7f57ebac021a82e41
